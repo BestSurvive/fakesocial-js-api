@@ -1,0 +1,23 @@
+{
+  "name": "fake-social",
+  "version": "1.0.0",
+  "description": "This modules contains API for fake social npm package",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "fakesocial-js": "^1.0.3",
+    "supertest": "^3.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Luca Cortile <cortilel@gmail.com>",
+  "license": "MIT"
+}
