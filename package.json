@@ -1,5 +1,5 @@
 {
-  "name": "fake-social",
+  "name": "fakesocial-api-js",
   "version": "1.0.0",
   "description": "This modules contains API for fake social npm package",
   "main": "app.js",
@@ -7,6 +7,7 @@
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
     "fakesocial-js": "^1.0.3",
+    "fakesocial-js-function": "^1.1.2",
     "supertest": "^3.0.0"
   },
   "devDependencies": {
